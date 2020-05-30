@@ -1,4 +1,4 @@
-## Aplicacion de Clima - Curso Node
+## Aplicacion de Clima
 Esta aplicación devuelve la temperatura actual de la ciudad que se desee.
 
 
